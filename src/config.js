@@ -1,4 +1,4 @@
 export const lc = {
-  appId: 'Bb4zv9cPXzfaVq8pf2jMGsds-gzGzoHsz',
-  appKey: 'f8eN4WiVLp4bzWL1kNeSWOT7',
+  appId: 'YtQXPGdhG0VPeQ7NQdegbM71-gzGzoHsz',
+  appKey: '5xVFJC1zUDKt1m8jyV3YOaof',
 };
