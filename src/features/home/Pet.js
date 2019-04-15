@@ -4,7 +4,6 @@ import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 import * as actions from './redux/actions';
 import {
-  Avatar, 
   Button,
   Modal,
   Pagination,

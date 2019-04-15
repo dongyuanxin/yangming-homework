@@ -227,7 +227,7 @@ export class Owner extends Component {
             <Button type="primary" shape="circle" icon="plus" size="large" onClick={() => this.showFormModal('add')}/>
           </div>
           <div className={`${pfxCls}-main`}>
-            <Table columns={columns} dataSource={services} pagination={false}/>
+            <Table rowKey="id" columns={columns} dataSource={services} pagination={false}/>
           </div>
           <div className={`${pfxCls}-footer`}>
             <Pagination {...pagination} showQuickJumper onChange={(page) => this.getService(page)}></Pagination>
