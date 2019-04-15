@@ -40,8 +40,6 @@ class Container extends Component {
       }
     }
 
-    console.log(defaultSelectedKeys);
-
     this.state = { 
       defaultSelectedKeys: [defaultSelectedKeys]
     };
